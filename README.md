@@ -1,2 +1,2 @@
 # scripts
-A repository containing scripts that used mostly for utility purposes.
+A repository containing scripts that are used mostly for utility purposes.
